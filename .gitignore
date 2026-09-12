@@ -8,6 +8,7 @@ data/processed/*.csv
 data/processed/*.csv.gz
 data/processed/*.json
 models/*.joblib
+!models/modelo_final.joblib
 
 !data/raw/.gitkeep
 !data/processed/.gitkeep
